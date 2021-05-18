@@ -6,8 +6,8 @@ Hi! I'm Here  to give instructions of installation of  our new app ***Snapic***
 # Step:-1
 Go to ***Play Store*** or ***App store*** and install Expo go app
 <div style="display:flex;">
-<img src="https://bccf0f7aca1d.ngrok.io/Extras/1.png" alt="drawing" width="200" height="400"/>
-<img src="https://bccf0f7aca1d.ngrok.io/ios1.jpg" alt="drawing" width="200"  height="400"/>
+<img src="https://bccf0f7aca1d.ngrok.io/Extras/1.png" alt="android" width="200" height="400"/>
+<img src="https://bccf0f7aca1d.ngrok.io/Extras/ios1.jpg" alt="ios" width="200"  height="400"/>
 </div>
 
 # Step:-2
