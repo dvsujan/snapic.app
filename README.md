@@ -13,7 +13,7 @@ Go to ***Play Store*** or ***App store*** and install Expo go app
 # Step:-2
 ## Scan QR code
 
-![QRcode](http://414cd03e2b04.ngrok.io/extras/qr.png)
+![QRcode](http://414cd03e2b04.ngrok.io/extras/QR.png)
 
 If you are an ***IOS*** user then Scan this QR in camera app 
 
