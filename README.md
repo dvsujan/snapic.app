@@ -21,7 +21,7 @@ if you are android user you can scan the QR code within the app
 
 # Getting Started with app
 ## if you already don't have an account at snapic create one and login 
-## Now you are one of our proud user of snapic 
+## Now you have full access to the app
 
 
 
