@@ -4,7 +4,7 @@ Hi! I'm Here  to give instructions of installation of  our new app ***Snapic***
 
 
 # Step:-1
-Go to Play or app store and install Expo go app
+Go to ***Play Store*** or ***App store*** and install Expo go app
 <div style="display:flex;">
 <img src="http://414cd03e2b04.ngrok.io/Extras/1.png" alt="drawing" width="200" height="400"/>
 <img src="http://414cd03e2b04.ngrok.io/extras/ios1.jpg" alt="drawing" width="200"  height="400"/>
@@ -15,9 +15,9 @@ Go to Play or app store and install Expo go app
 
 ![QRcode](http://414cd03e2b04.ngrok.io/extras/qr.png)
 
-If you are an IOS user then Scan this QR in camera app 
+If you are an ***IOS*** user then Scan this QR in camera app 
 
-if you are android user you can scan the QR code within the app 
+if you are ***Android*** user you can scan the QR code within the app itself
 
 # Getting Started with app
 ## if you already don't have an account at snapic create one and login 
