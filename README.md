@@ -5,9 +5,11 @@ Hi! I'm Here  to give instructions of installation of  our new app ***Snapic***
 
 # Step:-1
 Go to Play or app store and install Expo go app
-
+<div style="display:flex;">
 <img src="http://414cd03e2b04.ngrok.io/Extras/1.png" alt="drawing" width="200" height="400"/>
 <img src="http://414cd03e2b04.ngrok.io/extras/ios1.jpg" alt="drawing" width="200"  height="400"/>
+</div>
+
 # Step:-2
 ## Scan QR code
 
