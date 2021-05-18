@@ -6,14 +6,12 @@ Hi! I'm Here  to give instructions of installation of  our new app ***Snapic***
 # Step:-1
 Go to Play or app store and install Expo go app
 
-![AppStore](http://414cd03e2b04.ngrok.io/Extras/1.png)
-
-![PlayStore](http://414cd03e2b04.ngrok.io/extras/ios1.jpg)
+![AppStore](http://414cd03e2b04.ngrok.io/Extras/1.png){ width: 400px; } ![PlayStore](http://414cd03e2b04.ngrok.io/extras/ios1.jpg){ width: 400px; }
 
 # Step:-2
 ## Scan QR code
 
-![PlayStore](http://414cd03e2b04.ngrok.io/extras/qr.png)
+![QRcode](http://414cd03e2b04.ngrok.io/extras/qr.png)
 
 If you are an IOS user then Scan this QR in camera app 
 
