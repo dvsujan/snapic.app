@@ -2,8 +2,8 @@
 
 Hi! I'm Here  to give instructions of installation of  our new app ***Snapic***
 # Code
-# Server:
-# client :
+ Server:
+ client :
 
 # Step:-1
 Go to ***Play Store*** or ***App store*** and install Expo go app
